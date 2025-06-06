@@ -1,0 +1,7 @@
+bind_address = "127.0.0.1"
+port = 8080
+database_path = "database.sqlite"
+buckets = ["test"]
+max_workers = 4
+log_path = "log.txt"
+log_level = "info"
